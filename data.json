@@ -1,0 +1,15 @@
+[{
+        "name": "TNT",
+        "description": "Taruh TNT di depan player",
+        "price": 10000,
+        "message": "$donatur menaruh TNT di depan player !",
+        "command": "/spawn tnt"
+    },
+    {
+        "name": "Creeper",
+        "description": "Taruh Creeper di depan player",
+        "price": 5000,
+        "message": "$donatur menaruh Creeper di depan player !",
+        "command": "/spawn creeper"
+    }
+]
